@@ -1,2 +1,2 @@
-# 2015-July-Scripting-Games-Puzzle
-My solution to 2015-July Scripting Games Puzzle
+# Scripting-Games-Puzzle
+My solution to Scripting Games Puzzle
